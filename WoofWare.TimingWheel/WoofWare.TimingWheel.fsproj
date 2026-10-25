@@ -7,7 +7,7 @@
       <Copyright>Copyright (c) Patrick Stevens 2025</Copyright>
       <Description>A timing wheel is a specialized priority queue for a set of time-based alarms.</Description>
       <RepositoryType>git</RepositoryType>
-      <RepositoryUrl>https://github.com/Smaug123/WoofWare.TimingWheel</RepositoryUrl>
+      <RepositoryUrl>https://github.com/WoofWare/WoofWare.TimingWheel</RepositoryUrl>
       <PackageLicenseExpression>MIT</PackageLicenseExpression>
       <PackageReadmeFile>README.md</PackageReadmeFile>
       <PackageIcon>light.png</PackageIcon>
